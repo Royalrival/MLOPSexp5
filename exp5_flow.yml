@@ -1,4 +1,4 @@
-name: MLops CI Pipeline
+name: MLops CI-Pipeline
 on: [push]
 jobs:
   run:
